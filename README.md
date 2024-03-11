@@ -6,6 +6,8 @@ The objectives of this project are to analyze human resources dataset and build 
 * Salary Analysis
 * Salary Details (sub-page of Salary Analysis)
 
+![alt text](img/img001.png)
+
 Click [here](https://app.powerbi.com/view?r=eyJrIjoiZGU0NmI5MTAtZTFiYy00NGY2LWExYjEtNDkzN2YzMDY4ZTlhIiwidCI6IjA0NmI4YzU4LWFhNTEtNGY2NC04M2RlLWU1NjczZTY0NmY4NiIsImMiOjEwfQ%3D%3D) to go to the dashboard.
 <br/>
 
